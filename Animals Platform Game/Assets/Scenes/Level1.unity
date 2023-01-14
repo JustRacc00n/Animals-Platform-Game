@@ -316,6 +316,10 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f944767a59670f34a99b91ad8e02f528, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> c74408e2cdfddef9a54ff77a9d5cd14d2afbfe54:Animals Platform Game/Assets/Scenes/Level1.unity
+>>>>>>> parent of 4f291a1 (s)
 =======
 >>>>>>> c74408e2cdfddef9a54ff77a9d5cd14d2afbfe54:Animals Platform Game/Assets/Scenes/Level1.unity
 >>>>>>> parent of 4f291a1 (s)
@@ -382,6 +386,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6c3e3213d8852041a22d786e4d9d95d, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &518371025
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -440,6 +445,8 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f944767a59670f34a99b91ad8e02f528, type: 3}
 =======
+=======
+>>>>>>> parent of 4f291a1 (s)
 --- !u!1 &248120374
 GameObject:
   m_ObjectHideFlags: 0
@@ -524,6 +531,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
+>>>>>>> parent of 4f291a1 (s)
+=======
 >>>>>>> parent of 4f291a1 (s)
 --- !u!1 &519420028
 GameObject:
@@ -640,11 +650,17 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1304433472}
   - {fileID: 1478702301}
   - {fileID: 706515889}
   m_Father: {fileID: 1100700327}
   m_RootOrder: 6
+=======
+  - {fileID: 1551913315}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+>>>>>>> parent of 4f291a1 (s)
 =======
   - {fileID: 1551913315}
   m_Father: {fileID: 0}
