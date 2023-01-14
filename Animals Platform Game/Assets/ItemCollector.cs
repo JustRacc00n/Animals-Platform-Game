@@ -8,7 +8,6 @@ public class ItemCollector : MonoBehaviour
     private int Apple = 0;
 
     [SerializeField] private Text ApplesText;
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Apple"))
@@ -18,5 +17,4 @@ public class ItemCollector : MonoBehaviour
             ApplesText.text = "Apples: " + Apple;
         }
     }
-
 }
